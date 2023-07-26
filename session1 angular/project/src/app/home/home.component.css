@@ -1,0 +1,24 @@
+.bode1 {
+
+    height:700px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../../assets/business-2.jpg');
+    position: relative;
+    }
+    .taxtbode1{
+        text-align: center;
+ transform: translate(-50%);
+  position: absolute;
+  bottom: 30%;
+  left: 50%;
+ 
+    }
+
+    .taxtbode1 h1{
+        font-family: inherit;
+        color: rgb(255, 255, 255);
+    }
+    .taxtbode1 h6{
+        font-family: inherit;
+        color: rgb(255, 255, 255);
+    }
